@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "firebase-functions": "^4.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  }
+}
